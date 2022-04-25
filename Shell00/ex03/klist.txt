@@ -1,0 +1,6 @@
+Credentials cache: API:7514
+        Principal: kyamagis@42TOKYO.JP
+
+  Issued                Expires               Principal
+Dec 14 12:00:14 2021  Dec 14 22:00:14 2021  krbtgt/42TOKYO.JP@42TOKYO.JP
+Dec 14 12:00:14 2021  Dec 14 22:00:14 2021  HTTP/student-storage.42tokyo.jp@42TOKYO.JP
